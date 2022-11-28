@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1><b>To Do List Web App</b></h1>
+  <h1><b>Awesome Books</b></h1>
 
 </div>
 
@@ -14,24 +14,24 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [To Do List Web App] <a name="about-project"></a>
+# 📖 [Awesome Books] <a name="about-project"></a>
 
-**[To Do List Web App]** is a project for a to do list web application where users can add, view an delete their daily to do list.
+**[Awesome Books]** is a simple web app to add and view your favorite books with author name.
 
 ### Key Features <a name="key-features"></a>
 
-* Add a task in to do list web app*
-* View a task in to do list web app*
-* Delete a task in to do list web app*
+* Add a book in web app*
+* View a book in web app*
+* Delete a book in web app*
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="https://waseemqureshi2020.github.io/New-To-Do-List-ES6/">To Do List Web App</a>
+## 🚀 Live Demo <a name="https://waseemqureshi2020.github.io/Awesome-Books-App/">Awesome Books</a>
 
-- [Live Demo Link](https://waseemqureshi2020.github.io/New-To-Do-List-ES6/)
+- [Live Demo Link](https://waseemqureshi2020.github.io/Awesome-Books-App/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
