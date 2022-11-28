@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3><b>To Do List Web App</b></h3>
+  <h1><b>To Do List Web App</b></h1>
 
 </div>
 
@@ -14,28 +14,26 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [My Portfolio] <a name="about-project"></a>
+# 📖 [To Do List Web App] <a name="about-project"></a>
 
-**[My Portfolio]** is a project for a to do list web application where users can add, view an delete their daily to do list.
+**[To Do List Web App]** is a project for a to do list web application where users can add, view an delete their daily to do list.
 
 ### Key Features <a name="key-features"></a>
 
-
-* Add a task in to do list web app.*
-* View a task in to do list web app.*
-* Delete a task in to do list web app.*
+* Add a task in to do list web app*
+* View a task in to do list web app*
+* Delete a task in to do list web app*
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="lhttps://waseemqureshi2020.github.io/New-To-Do-List-ES6/">My Portfolio</a>
+## 🚀 Live Demo <a name="https://waseemqureshi2020.github.io/New-To-Do-List-ES6/">To Do List Web App</a>
 
 - [Live Demo Link](https://waseemqureshi2020.github.io/New-To-Do-List-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-.
 
 ### Prerequisites
 you should have vs code or any code editor and git
@@ -79,7 +77,7 @@ Example command:
 
 ## 👥 Authors <a name="Waseem Qureshi"></a>
 
-👤 **Shoaib Qureshi**
+👤 **Waseem Qureshi**
 
 - GitHub: [@githubhandle](https://github.com/waseemqureshi2020)
 - Twitter: [@twitterhandle](https://twitter.com/WASEEMQ2020)
