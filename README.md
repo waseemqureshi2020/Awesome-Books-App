@@ -8,7 +8,7 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
+- [📖 About the Project](#about-project): Simple Add, View And Delete Book Web App
   - [🛠 Built With](#Html,css,javascript): HTML, CSS, Javascript
 
 
