@@ -9,7 +9,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#Html,css,javascript)
+  - [🛠 Built With](#Html,css,javascript): HTML, CSS, Javascript
 
 
 <!-- PROJECT DESCRIPTION -->
