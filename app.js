@@ -24,10 +24,9 @@ function removeDom(element) {
 function render(book) {
   awesomeBooks.innerHTML += `
       <li id="${book.id}">
-        <h3>${book.title}</h3>
-        <h4>${book.author}</h4>
-        <button class="btn">remove</button>
-        <hr>  
+        <h3>"${book.title}" by </h3>
+        <h3>${book.author}</h3>
+        <button class="btn">Remove</button>
       </li>
     
       `;
@@ -46,7 +45,7 @@ document.querySelector('form').onsubmit = (e) => {
   const error = document.getElementById('error');
   const { title, author } = e.target;
   if (title.value.length < 1 || author.value.length < 1) {
-    error.innerHTML = 'input filed must not be empty';
+    error.innerHTML = 'input filled must not be empty';
     setTimeout(() => {
       error.innerHTML = '';
     }, 3000);

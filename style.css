@@ -6,4 +6,35 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  border: 5px solid black;
+}
+ul li h3 {
+  text-align: left;
+  display: inline-block;
+}
+ul li {
+  text-align: left;
+  display: block;
+}
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+button.submit-btn {
+  position: relative;
+  left: 10%;
+  width: 5%;
+}
+form input {
+  width: 25%;
+  padding: 12px 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+  text-align: left;
+}
+ul li:nth-child(odd) {
+  background-color: rgb(173, 170, 170);
+  width: 100%;
 }
