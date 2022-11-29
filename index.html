@@ -4,23 +4,24 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>To Do List Web App</title>
+    <title>Awesome Books</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1 class="title">Awesome Books</h1>
-    <section id="list-books-section" class="books">
-        <span id="no-books" class="no-books">No Book Found, Please Add A New Book</span>
-    <ul class="books-list">
+  <h1>Awesome Books</h1>
+  <form>
+    <input type="text" id="title" placeholder="Title" required>
+    <input type="text" id="author" placeholder="Author" required>
+    <button type="button" id="add" class="add-button">Add</button>
+  </form>
+  <div class="container">
+    <ul>
+        <li>Dev at<span>X</span></li>
+        <li>Dev at<span>X</span></li>
+        <li>Dev at<span>X</span></li>
+        <li>Dev at<span>X</span></li>
     </ul>
-    </section>
-        <section id="add-book-section" class="display-none">
-            <input type="text" id="title" class="input-title" placeholder="Title"></br>
-            <input type="text" id="author" class="input-author" placeholder="Author"></br>
-            <button type="button" id="add" class="add-book-button">Add Book</button>
-        </section>
-    </section>
-    <section id="contact-section" class="contact"></section>
+  </div>
 </body>
 <script src="./app.js"></script>
 </html>
