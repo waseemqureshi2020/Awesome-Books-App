@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1><b>To Do List Web App</b></h1>
+  <h1><b>Awesome Books</b></h1>
 
 </div>
 
@@ -14,24 +14,23 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [To Do List Web App] <a name="about-project"></a>
+# 📖 [Awesome Books] <a name="about-project"></a>
 
-**[To Do List Web App]** is a project for a to do list web application where users can add, view an delete their daily to do list.
+[Awesome Books] is a simple web app to add and view your favorite books with author name.
 
-### Key Features <a name="key-features"></a>
+Key Features
 
-* Add a task in to do list web app*
-* View a task in to do list web app*
-* Delete a task in to do list web app*
-
+**Add a book in web app**
+**View a book in web app**
+**Delete a book in web app**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="https://waseemqureshi2020.github.io/New-To-Do-List-ES6/">To Do List Web App</a>
+## 🚀 Live Demo <a name="https://waseemqureshi2020.github.io/Awesome-Books-App/">To Do List Web App</a>
 
-- [Live Demo Link](https://waseemqureshi2020.github.io/New-To-Do-List-ES6/)
+- [Live Demo Link](https://waseemqureshi2020.github.io/Awesome-Books-App/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,11 +82,11 @@ Example command:
 - Twitter: [@twitterhandle](https://twitter.com/WASEEMQ2020)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/m/in/xfitness-x-784212244)
 
-👤 **Author2**
+👤 **Progress**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/waseem-qureshi-2231741a2/)
+- GitHub: [@githubhandle](https://github.com/Progress2002)
+- Twitter: [@twitterhandle](https://twitter.com/Progress_2002)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/progress-ezeamaka-27b114247)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
