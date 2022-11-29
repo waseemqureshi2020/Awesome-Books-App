@@ -8,8 +8,8 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#Html,css,javascript)
+- [📖 About the Project](#about-project): Simple Add, View And Delete Book Web App
+  - [🛠 Built With](#Html,css,javascript): HTML, CSS, Javascript
 
 
 <!-- PROJECT DESCRIPTION -->
@@ -18,17 +18,20 @@
 
 [Awesome Books] is a simple web app to add and view your favorite books with author name.
 
-Key Features
+### Key Features <a name="key-features"></a>
 
-**Add a book in web app**
-**View a book in web app**
-**Delete a book in web app**
+* Add a book in web app*
+* View a book in web app*
+* Delete a book in web app*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="https://waseemqureshi2020.github.io/Awesome-Books-App/">To Do List Web App</a>
+=======
+## 🚀 Live Demo <a name="https://waseemqureshi2020.github.io/Awesome-Books-App/">Awesome Books</a>
+
 
 - [Live Demo Link](https://waseemqureshi2020.github.io/Awesome-Books-App/)
 
@@ -112,7 +115,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Give it a star If you like this project.
+Give it a ⭐️ If you like this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
