@@ -62,10 +62,10 @@ document.querySelector('form').onsubmit = (e) => {
   }
 };
 
-// if (localStorage.getItem('bookLibrary')) {
-//   books = JSON.parse(localStorage.getItem('bookLibrary'));
-// } else {
-//   localStorage.setItem('bookLibrary', JSON.stringify([]));
-// }
+if (localStorage.getItem('bookLibrary')) {
+  books = JSON.parse(localStorage.getItem('bookLibrary'));
+} else {
+  localStorage.setItem('bookLibrary', JSON.stringify([]));
+}
 
-// books.forEach((book) => render(book));
+books.forEach((book) => render(book));
