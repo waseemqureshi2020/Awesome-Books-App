@@ -9,16 +9,18 @@
 </head>
 <body>
     <h1 class="title">Awesome Books</h1>
-    <section>
-        <span>No Book Found, Please Add A New Book</span>
+    <section id="list-books-section" class="books">
+        <span id="no-books" class="no-books">No Book Found, Please Add A New Book</span>
+    <ul class="books-list">
+    </ul>
     </section>
-    <section>
-        <form>
-            <input type="text" id="title" placeholder="Title"></br>
-            <input type="text" id="author" placeholder="Author"></br>
-            <button type="button" id="add">Add Book</button>
-        </form>
+        <section id="add-book-section" class="display-none">
+            <input type="text" id="title" class="input-title" placeholder="Title"></br>
+            <input type="text" id="author" class="input-author" placeholder="Author"></br>
+            <button type="button" id="add" class="add-book-button">Add Book</button>
+        </section>
     </section>
+    <section id="contact-section" class="contact"></section>
 </body>
 <script src="./app.js"></script>
 </html>
