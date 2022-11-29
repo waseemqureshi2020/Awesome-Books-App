@@ -1,5 +1,5 @@
 {
-  "name": "new-to-do-list-es6",
+  "name": "awesome-books-app",
   "version": "1.0.0",
   "description": "<div align=\"center\">",
   "main": "app.js",
@@ -8,15 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waseemqureshi2020/New-To-Do-List-ES6.git"
+    "url": "git+https://github.com/waseemqureshi2020/Awesome-Books-App.git"
   },
-  "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/waseemqureshi2020/New-To-Do-List-ES6/issues"
+    "url": "https://github.com/waseemqureshi2020/Awesome-Books-App/issues"
   },
-  "homepage": "https://github.com/waseemqureshi2020/New-To-Do-List-ES6#readme",
+  "homepage": "https://github.com/waseemqureshi2020/Awesome-Books-App#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",

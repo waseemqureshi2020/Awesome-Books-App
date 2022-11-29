@@ -16,7 +16,7 @@
 
 # 📖 [Awesome Books] <a name="about-project"></a>
 
-**[Awesome Books]** is a simple web app to add and view your favorite books with author name.
+[Awesome Books] is a simple web app to add and view your favorite books with author name.
 
 ### Key Features <a name="key-features"></a>
 
@@ -24,12 +24,14 @@
 * View a book in web app*
 * Delete a book in web app*
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
+## 🚀 Live Demo <a name="https://waseemqureshi2020.github.io/Awesome-Books-App/">To Do List Web App</a>
+=======
 ## 🚀 Live Demo <a name="https://waseemqureshi2020.github.io/Awesome-Books-App/">Awesome Books</a>
+
 
 - [Live Demo Link](https://waseemqureshi2020.github.io/Awesome-Books-App/)
 
@@ -83,11 +85,11 @@ Example command:
 - Twitter: [@twitterhandle](https://twitter.com/WASEEMQ2020)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/m/in/xfitness-x-784212244)
 
-👤 **Author2**
+👤 **Progress**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/waseem-qureshi-2231741a2/)
+- GitHub: [@githubhandle](https://github.com/Progress2002)
+- Twitter: [@twitterhandle](https://twitter.com/Progress_2002)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/progress-ezeamaka-27b114247)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
