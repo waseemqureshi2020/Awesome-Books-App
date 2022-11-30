@@ -29,7 +29,7 @@ class Book {
     this.awesomeBooks.innerHTML += `
     <li id="${book.id}">
     <p><span>${book.title}</span> by <span>${book.author}</span>.</p>
-    <button class="btn">remove</button>
+    <button class="btn">Remove</button>
     </li>
       
         `;
