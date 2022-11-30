@@ -55,7 +55,6 @@ document.querySelector('form').onsubmit = (e) => {
     setTimeout(() => {
       error.innerHTML = '';
     }, 3000);
-
   } else {
     error.innerHTML = '';
     library.add({
