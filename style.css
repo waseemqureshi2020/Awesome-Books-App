@@ -76,6 +76,10 @@ main {
   margin-top: 15px;
 }
 
+footer p {
+  text-align: center;
+}
+
 #contactpage p {
   text-align: center;
 }
@@ -178,10 +182,6 @@ footer {
   border: 2px solid black;
   padding: 10px;
   margin: 5px;
-}
-
-footer p {
-  text-align: center;
 }
 
 @media (min-width: 768px) {

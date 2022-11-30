@@ -117,18 +117,18 @@ list.forEach((item, index) => {
   };
 });
 
-setInterval(function() {
+setInterval(() => {
   const date = document.querySelector('.date');
-const d = new Date();
-const year = new Intl.DateTimeFormat('en', { year: 'numeric' }).format(d);
-const month = new Intl.DateTimeFormat('en', { month: 'long' }).format(d);
-const day = new Intl.DateTimeFormat('en', { day: '2-digit' }).format(d);
-const hour = d.getHours();
-const minute = d.getMinutes();
-const second = d.getSeconds();
-const ampm = hour >= 12 ? 'pm' : 'am';
+  const d = new Date();
+  const year = new Intl.DateTimeFormat('en', { year: 'numeric' }).format(d);
+  const month = new Intl.DateTimeFormat('en', { month: 'long' }).format(d);
+  const day = new Intl.DateTimeFormat('en', { day: '2-digit' }).format(d);
+  const hour = d.getHours();
+  const minute = d.getMinutes();
+  const second = d.getSeconds();
+  const ampm = hour >= 12 ? 'pm' : 'am';
 
   date.innerHTML = `${month} ${day}th ${year}, ${hour}:${minute}:${second} ${ampm}`;
-}, 1000)
+}, 1000);
 
 library.books.forEach((book) => library.render(book));
