@@ -76,6 +76,10 @@ main {
   margin-top: 15px;
 }
 
+#contactpage p {
+  text-align: center;
+}
+
 .title {
   text-align: center;
   margin: 20px 0;
@@ -136,6 +140,7 @@ form input {
   font-weight: bold;
   outline: none;
   border-radius: 10px;
+  border: 1px solid black;
 }
 
 form input:hover {
