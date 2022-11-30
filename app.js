@@ -7,7 +7,6 @@ class Book {
   }
 
   updateLocalstorage() {
-NavigationBar
     localStorage.setItem('bokLibrarie', JSON.stringify(this.books));
   }
 
