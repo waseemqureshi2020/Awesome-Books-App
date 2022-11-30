@@ -1,40 +1,85 @@
-#error {
-  color: red;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #272a31;
+  color: #d3d3d3;
 }
 
 ul {
   list-style-type: none;
+}
+
+li {
+  padding: 7px;
   margin: 0;
-  padding: 0;
-  border: 5px solid black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
-ul li h3 {
-  text-align: left;
-  display: inline-block;
+
+li:hover {
+  background-color: #52545a;
 }
-ul li {
-  text-align: left;
+
+.title {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#awesomeBooks {
+  border: 1px solid #d4d2d2;
+  margin: 10px;
+}
+
+li span {
+  font-weight: bold;
+}
+
+li .btn {
   display: block;
+  padding: 5px 10px;
+  cursor: pointer;
 }
-* {
-  box-sizing: border-box;
+
+hr {
+  width: 70px;
+  margin: 30px auto;
+}
+
+.form-section {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.form-section h2 {
+  margin-bottom: 15px;
   text-align: center;
 }
-button.submit-btn {
-  position: relative;
-  left: 10%;
-  width: 5%;
-}
+
 form input {
-  width: 25%;
-  padding: 12px 20px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-  resize: vertical;
-  text-align: left;
-}
-ul li:nth-child(odd) {
-  background-color: rgb(173, 170, 170);
   width: 100%;
+  height: 25px;
+  padding-left: 6px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.form-btn {
+  text-align: right;
+}
+
+.form-btn button {
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#error {
+  color: red;
 }
